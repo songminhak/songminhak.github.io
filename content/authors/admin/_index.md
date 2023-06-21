@@ -28,11 +28,12 @@ bio: My interest lies in theoretical foundations of machine learning, deep learn
 interests:
   - Machine Learning Theory
   - Optimization
+  - Statistics
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Industrial & Systems Engineering (*Double Major* in Mathematical Sciences)
+    - course: BSc in Industrial & Systems Engineering and Mathematical Sciences
       institution: KAIST
       year: 2020 - Current
 
@@ -61,7 +62,7 @@ email: '{firstname}{lastname} at kaist.ac.kr'
 highlight_name: true
 ---
 
-My name is Minhak Song. I am an undergraduate student at KAIST double majoring in mathematical sciences and industrial & systems engineering. My interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
+My name is Minhak Song. I am an undergraduate student at KAIST double majoring in industrial & systems engineering and mathematical sciences. My interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
 
 Email: {firstname}{lastname} at kaist dot ac dot kr
 {style="text-align: justify;"}
