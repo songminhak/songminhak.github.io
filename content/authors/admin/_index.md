@@ -62,7 +62,7 @@ email: '{firstname}{lastname} at kaist.ac.kr'
 highlight_name: true
 ---
 
-My name is Minhak Song. I am an undergraduate student at KAIST double majoring in industrial & systems engineering and mathematical sciences. My interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
+My name is Minhak Song. I am an undergraduate student at [KAIST]{https://www.kaist.ac.kr/kr/} double majoring in industrial & systems engineering and mathematical sciences. My interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
 
-Email: {firstname}{lastname} at kaist dot ac dot kr
+**Email**: {firstname}{lastname} at kaist dot ac dot kr
 {style="text-align: justify;"}
