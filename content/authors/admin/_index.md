@@ -32,9 +32,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Industrial & Systems Engineering (Double Major in Mathematical Sciences)
+    - course: BSc in Industrial & Systems Engineering (*Double Major* in Mathematical Sciences)
       institution: KAIST
-      year: 2020-
+      year: 2020 - Current
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,5 +61,7 @@ email: '{firstname}{lastname} at kaist.ac.kr'
 highlight_name: true
 ---
 
-I am undergraduate student at KAIST double majoring in mathematical sciences and industrial & systems engineering. My interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
+My name is Minhak Song. I am an undergraduate student at KAIST double majoring in mathematical sciences and industrial & systems engineering. My interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
+
+Email: {firstname}{lastname} at kaist dot ac dot kr
 {style="text-align: justify;"}
