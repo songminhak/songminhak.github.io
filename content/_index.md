@@ -47,6 +47,7 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: featured
     content:
       title: Publications
       # text: |-
