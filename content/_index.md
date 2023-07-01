@@ -44,7 +44,8 @@ sections:
           location: KAIST, South Korea
           date_start: '2022-01-01'
           date_end: ''
-          description: Under the supervision of Prof. Chulhee Yun
+          description: |2-
+          Under the supervision of Prof. Chulhee Yun
         - title: AI Research Engineer Intern
           company: Upstage AI
           company_url: 'https://en.upstage.ai'
@@ -52,7 +53,8 @@ sections:
           location: California
           date_start: '2021-09-01'
           date_end: '2020-11-31'
-          description: I designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
+          description: |2-
+          I designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
     design:
       columns: '2'
   # - block: collection
