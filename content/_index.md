@@ -42,23 +42,18 @@ sections:
           company: Optimization & Machine Learning Lab (OptiML Lab)
           company_url: https://chulheeyun.github.io
           company_logo: ''
-          location: California
+          location: KAIST AI, South Korea
           date_start: '2021-01-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Under supervision of Prof. Chulhee Yun
         - title: AI Research Engineer
           company: Upstage AI
           company_url: https://www.upstage.ai
           company_logo: ''
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: South Korea
+          date_start: '2021-09-01'
+          date_end: '2020-11-30'
+          description: Designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
     design:
       columns: '2'
   # - block: collection
