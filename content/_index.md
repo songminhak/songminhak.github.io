@@ -45,7 +45,7 @@ sections:
           location: KAIST AI, South Korea
           date_start: '2021-01-01'
           date_end: ''
-          description: Under supervision of Prof. Chulhee Yun
+          description: Under supervision of Prof. [Chulhee Yun](https://chulheeyun.github.io)
         - title: AI Research Engineer
           company: Upstage AI
           company_url: https://www.upstage.ai
