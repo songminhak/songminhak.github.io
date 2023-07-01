@@ -40,8 +40,8 @@ sections:
       items:
         - title: Undergraduate researcher
           company: Optimization & Machine Learning Lab (OptiML Lab)
-          company_url: ''
-          company_logo: org-gc
+          company_url: https://chulheeyun.github.io
+          company_logo: ''
           location: California
           date_start: '2021-01-01'
           date_end: ''
@@ -53,8 +53,8 @@ sections:
               * Deploying
         - title: AI Research Engineer
           company: Upstage AI
-          company_url: ''
-          company_logo: org-x
+          company_url: https://www.upstage.ai
+          company_logo: ''
           location: California
           date_start: '2016-01-01'
           date_end: '2020-12-31'
