@@ -44,7 +44,7 @@ sections:
           location: KAIST, South Korea
           date_start: '2022-01-01'
           date_end: ''
-          Advisor: Chulhee Yun
+          description: Advisor: Chulhee Yun
         - title: AI Research Engineer Intern
           company: Upstage AI
           company_url: 'https://en.upstage.ai'
