@@ -52,7 +52,7 @@ sections:
           company_logo: ''
           location: South Korea
           date_start: '2021-09-01'
-          date_end: '2020-11-30'
+          date_end: '2021-11-30'
           description: Designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
     design:
       columns: '2'
