@@ -24,7 +24,7 @@ abstract: Cohen et al. [8] empirically study the evolution of the largest eigenv
 # Summary. An optional shortened abstract.
 summary: We empirically demonstrate and provably establish the trajectory alignment phenomenon of gradient descent in the Edge of Stability regime.
 
-tags: ''
+tags: []
 featured: false
 
 # links:
