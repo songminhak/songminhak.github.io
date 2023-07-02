@@ -44,7 +44,7 @@ sections:
           company_url: https://chulheeyun.github.io
           company_logo: ''
           location: KAIST AI, South Korea
-          date_start: '2021-01-01'
+          date_start: '2022-01-01'
           date_end: ''
           description: Under supervision of Prof. [Chulhee Yun](https://chulheeyun.github.io)
         - title: AI Research Engineer
@@ -52,9 +52,17 @@ sections:
           company_url: https://www.upstage.ai
           company_logo: ''
           location: South Korea
-          date_start: '2021-09-01'
-          date_end: '2021-11-30'
+          date_start: '2022-09-01'
+          date_end: '2022-11-30'
           description: Designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
+        - title: Undergraduate researcher
+          company: Applied Artificial Intelligence Lab (AAI Lab)
+          company_url: https://aailab.kaist.ac.kr/xe2/
+          company_logo: ''
+          location: KAIST ISysE, South Korea
+          date_start: '2021-06-01'
+          date_end: '2021-12-31'
+          description: Under supervision of Prof. [Il-Chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749)
     design:
       columns: '2'
   # - block: collection
