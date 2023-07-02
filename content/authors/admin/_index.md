@@ -53,7 +53,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '{firstname}{lastname} at kaist.ac.kr'
+email: '{firstname}{lastname} at kaist dot ac dot kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
