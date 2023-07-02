@@ -63,6 +63,6 @@ Hi, I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/kr/), doubl
 
 I am on leave from my studies at KAIST to fulfill my mandatory military service in South Korea, from February 2022 to November 2023.
 
-If you are interested in collaboration or wish to engage in discussions with me, please feel free to contact me at: songminhak at kaist dot ac dot kr.
+If you are interested in collaboration or wish to engage in discussions with me, please feel free to contact me at: minhaksong at kaist dot ac dot kr.
 
 {style="text-align: justify;"}
