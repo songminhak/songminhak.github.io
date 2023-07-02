@@ -61,8 +61,8 @@ highlight_name: true
 
 Hi, I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/kr/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of machine learning, deep learning, and reinforcement learning through the lens of optimization theory and statistics. Recently, I am focusing on understanding the training dynamics of gradient-based optimization methods in deep learning, closely working with [Prof. Chulhee Yun](https://chulheeyun.github.io).
 
-I am on leave from my studies at [KAIST](https://www.kaist.ac.kr/kr/) to fulfill my mandatory military service in South Korea, from February 2022 to November 2023.
+I am on leave from my studies at KAIST to fulfill my mandatory military service in South Korea, from February 2022 to November 2023.
 
-If you are interested in collaboration or wish to engage in discussions with me, please feel free to contact me at songminhak at kaist dot ac dot kr.
+If you are interested in collaboration or wish to engage in discussions with me, please feel free to contact me at: songminhak at kaist dot ac dot kr.
 
 {style="text-align: justify;"}
