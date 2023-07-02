@@ -35,7 +35,7 @@ education:
   courses:
     - course: BSc in Industrial & Systems Engineering and Mathematical Sciences
       institution: KAIST
-      year: 2020 - Current
+      year: 2020 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
