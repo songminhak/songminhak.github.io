@@ -73,3 +73,7 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
