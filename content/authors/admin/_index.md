@@ -22,7 +22,7 @@ organizations:
     url: https://www.kaist.ac.kr/kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest lies in building theoretical foundations of machine learning, deep learning, and reinforcement learning.
+bio: My research interest lies in building the theoretical foundations of machine learning, deep learning, and reinforcement learning through the lens of optimization theory and statistics.
 
 # Interests to show in About widget
 interests:
