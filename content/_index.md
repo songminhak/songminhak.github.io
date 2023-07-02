@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-07-02
 type: landing
 
 sections:
@@ -19,10 +19,10 @@ sections:
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./publication/).
       #   {{% /callout %}}
-      # filters:
-      #   folders:
-      #     - publication
-      #   exclude_featured: true
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
