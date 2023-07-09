@@ -5,6 +5,7 @@
 
 title: Minhak Song # Website name
 baseURL: 'https://songminhak.github.io' # Website URL
+googleAnalytics: G-W5X5XPHFXZ
 
 ############################
 ## LANGUAGE
@@ -77,4 +78,3 @@ cascade:
   - _target:
       path: /publication/**
     share: false
-google_analytics: "G-P27Q44F9FG"
