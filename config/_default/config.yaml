@@ -77,3 +77,4 @@ cascade:
   - _target:
       path: /publication/**
     share: false
+google_analytics: "G-P27Q44F9FG"
