@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "*arXiv preprint*"
 publication_short: ""
 
-abstract: Cohen et al. [8] empirically study the evolution of the largest eigenvalue of the loss Hessian, also known as sharpness, along the gradient descent (GD) trajectory and observe a phenomenon called the *Edge of Stability* (EoS). The sharpness increases at the early phase of training (referred to as *progressive sharpening*), and eventually saturates close to the threshold of $2/\text{(step size)}$. In this paper, we start by demonstrating through empirical studies that when the EoS phenomenon occurs, different GD trajectories (after a proper reparameterization) align on a specific bifurcation diagram determined solely by the loss function, independent of the network architecture, training data, and step size.  We rigorously prove this *trajectory alignment* phenomenon for a two-layer fully-connected linear network and a single-neuron nonlinear network trained with a single data point. Our trajectory alignment analysis establishes both progressive sharpening and EoS phenomena, encompassing and extending recent findings in the literature.
+abstract: Cohen et al. (2021) empirically study the evolution of the largest eigenvalue of the loss Hessian, also known as sharpness, along the gradient descent (GD) trajectory and observe a phenomenon called the *Edge of Stability* (EoS). The sharpness increases at the early phase of training (referred to as *progressive sharpening*), and eventually saturates close to the threshold of $2/(\text{step size})$. In this paper, we start by demonstrating through empirical studies that when the EoS phenomenon occurs, different GD trajectories (after a proper reparameterization) align on a specific bifurcation diagram independent of initialization. We then rigorously prove this *trajectory alignment* phenomenon for a two-layer fully-connected linear network and a single-neuron nonlinear network trained with a single data point. Our trajectory alignment analysis establishes both progressive sharpening and EoS phenomena, encompassing and extending recent findings in the literature.
 
 # Summary. An optional shortened abstract.
 summary: We empirically demonstrate and provably establish the trajectory alignment phenomenon of gradient descent in the Edge of Stability regime.
@@ -27,9 +27,9 @@ summary: We empirically demonstrate and provably establish the trajectory alignm
 tags: []
 featured: false
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/2307.04204
 url_pdf: ''
 url_code: ''
 url_dataset: ''
