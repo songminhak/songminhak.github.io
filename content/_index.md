@@ -39,7 +39,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Undergraduate researcher
+        - title: Undergraduate Researcher
           company: Optimization & Machine Learning Lab (OptiML Lab)
           company_url: https://chulheeyun.github.io
           company_logo: ''
@@ -55,7 +55,15 @@ sections:
           date_start: '2022-09-01'
           date_end: '2022-11-30'
           description: Designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
-        - title: Undergraduate researcher
+        - title: Summer Session 2022
+          company: University of California, Berkeley
+          company_url: https://www.berkeley.edu
+          company_logo: ''
+          location: United States
+          date_start: '2022-06-18'
+          date_end: '2022-08-17'
+          description: 'Field of Study: Artificial Intelligence'
+        - title: Undergraduate Researcher
           company: Applied Artificial Intelligence Lab (AAI Lab)
           company_url: https://aailab.kaist.ac.kr/xe2/
           company_logo: ''
