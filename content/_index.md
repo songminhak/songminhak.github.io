@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2023-07-02
+date: 2023-07-28
 type: landing
 
 sections:
@@ -47,7 +47,7 @@ sections:
           date_start: '2022-01-01'
           date_end: ''
           description: Under supervision of [Prof. Chulhee Yun](https://chulheeyun.github.io)
-        - title: AI Research Engineer
+        - title: AI Research Engineer Intern
           company: Upstage AI
           company_url: https://www.upstage.ai
           company_logo: ''
