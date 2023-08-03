@@ -55,7 +55,7 @@ sections:
           date_start: '2022-09-01'
           date_end: '2022-11-30'
           description: Designed real-time recommendation models using contextual bandit algorithms and applied them to e-commerce service.
-        - title: Summer Session 2022
+        - title: Exchange Student
           company: University of California, Berkeley
           company_url: https://www.berkeley.edu
           company_logo: ''
