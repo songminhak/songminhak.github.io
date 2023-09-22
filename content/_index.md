@@ -46,7 +46,7 @@ sections:
           location: KAIST AI, South Korea
           date_start: '2022-01-01'
           date_end: ''
-          description: Under supervision of [Prof. Chulhee Yun](https://chulheeyun.github.io)
+          description: Under supervision of [Prof. Chulhee Yun](https://chulheeyun.github.io).
         - title: AI Research Engineer Intern
           company: Upstage AI
           company_url: https://www.upstage.ai
@@ -62,7 +62,7 @@ sections:
           location: United States
           date_start: '2022-06-18'
           date_end: '2022-08-17'
-          description: 'Field of Study: Artificial Intelligence'
+          description: Expense fully covered by KAIST Presidential Fellowship.
         - title: Undergraduate Researcher
           company: Applied Artificial Intelligence Lab (AAI Lab)
           company_url: https://aailab.kaist.ac.kr/xe2/
@@ -70,7 +70,7 @@ sections:
           location: KAIST ISysE, South Korea
           date_start: '2021-06-01'
           date_end: '2021-12-31'
-          description: Under supervision of [Prof. Il-Chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749)
+          description: Under supervision of [Prof. Il-Chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749).
     design:
       columns: '2'
   # - block: collection
