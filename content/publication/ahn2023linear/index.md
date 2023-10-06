@@ -1,5 +1,5 @@
 ---
-title: "Trajectory Alignment: Understanding the Edge of Stability Phenomenon via Bifurcation Theory"
+title: "Linear attention is (maybe) all you need (to understand transformer optimization)"
 authors:
 - Kwangjun Ahn
 - Xiang Cheng
