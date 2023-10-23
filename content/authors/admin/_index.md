@@ -50,7 +50,7 @@ social:
 #   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_full.pdf
+    link: uploads/CV_Minhak_Song.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '{firstname}{lastname} at kaist dot ac dot kr'
