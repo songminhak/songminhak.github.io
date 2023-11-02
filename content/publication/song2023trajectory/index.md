@@ -1,7 +1,7 @@
 ---
 title: "Trajectory Alignment: Understanding the Edge of Stability Phenomenon via Bifurcation Theory"
 authors:
-- minhak
+- admin
 - Chulhee Yun
 date: "2023-07-02T00:00:00Z"
 doi: ""
