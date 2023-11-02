@@ -3,7 +3,7 @@ title: "Linear attention is (maybe) all you need (to understand transformer opti
 authors:
 - Kwangjun Ahn
 - Xiang Cheng
-- admin
+- minhak
 - Chulhee Yun
 - Ali Jadbabaie
 - Suvrit Sra
