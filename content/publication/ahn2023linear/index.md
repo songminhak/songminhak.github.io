@@ -25,7 +25,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*arXiv preprint*, short version at *NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning **(Oral)***"
-publication_short: "*arXiv preprint*"
+publication_short: "*arXiv preprint*, short version at *NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning **(Oral)***"
 
 abstract: Transformer training is notoriously difficult, requiring a careful design of optimizers and use of various heuristics. We make progress towards understanding the subtleties of training transformers by carefully studying a simple yet canonical linearized shallow transformer model. Specifically, we train linear transformers to solve regression tasks, inspired by J. von Oswald et al. (ICML 2023), and K. Ahn et al. (NeurIPS 2023). Most importantly, we observe that our proposed linearized models can reproduce several prominent aspects of transformer training dynamics. Consequently, the results obtained in this paper suggest that a simple linearized transformer model could actually be a valuable, realistic abstraction for understanding transformer optimization.
 
