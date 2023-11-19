@@ -16,8 +16,8 @@ publishDate: "2023-07-02T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*NeurIPS 2023*"
-publication_short: ""
+publication: "*Neural Information Processing Systems 2023*"
+publication_short: "*NeurIPS 2023*"
 
 abstract: Cohen et al. (2021) empirically study the evolution of the largest eigenvalue of the loss Hessian, also known as sharpness, along the gradient descent (GD) trajectory and observe the Edge of Stability (EoS) phenomenon. The sharpness increases at the early phase of training (referred to as progressive sharpening), and eventually saturates close to the threshold of $2/\text{(step size)}$. In this paper, we start by demonstrating through empirical studies that when the EoS phenomenon occurs, different GD trajectories (after a proper reparameterization) align on a specific bifurcation diagram independent of initialization. We then rigorously prove this trajectory alignment phenomenon for a two-layer fully-connected linear network and a single-neuron nonlinear network trained with a single data point. Our trajectory alignment analysis establishes both progressive sharpening and EoS phenomena, encompassing and extending recent findings in the literature.
 
