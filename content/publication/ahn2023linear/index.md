@@ -1,5 +1,5 @@
 ---
-title: "Linear attention is (maybe) all you need (to understand transformer optimization)"
+title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
 authors:
 - Kwangjun Ahn
 - Xiang Cheng
@@ -24,13 +24,13 @@ publishDate: "2023-10-02T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*arXiv preprint*, short version at *NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning **(Oral)***"
-publication_short: "*arXiv preprint*, short version at *NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning **(Oral)***"
+publication: "*ICLR 2024*, short version at *NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning **(Oral)***"
+publication_short: "*ICLR 2024*, short version at *NeurIPS 2023 Workshop on Mathematics of Modern Machine Learning **(Oral)***"
 
 abstract: Transformer training is notoriously difficult, requiring a careful design of optimizers and use of various heuristics. We make progress towards understanding the subtleties of training transformers by carefully studying a simple yet canonical linearized shallow transformer model. Specifically, we train linear transformers to solve regression tasks, inspired by J. von Oswald et al. (ICML 2023), and K. Ahn et al. (NeurIPS 2023). Most importantly, we observe that our proposed linearized models can reproduce several prominent aspects of transformer training dynamics. Consequently, the results obtained in this paper suggest that a simple linearized transformer model could actually be a valuable, realistic abstraction for understanding transformer optimization.
 
 # Summary. An optional shortened abstract.
-summary: Shallow linearized transformer exhibits same training difficulties as a real transformer, hence opens up the exciting prospect of having an analyzable proxy to reality.
+summary: Shallow linearized Transformer exhibits same training difficulties as a real Transformer, hence opens up the exciting prospect of having an analyzable proxy to reality.
 
 tags: []
 featured: false
