@@ -24,8 +24,8 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
-      view: card
+      columns: '3'
+      view: citation
   - block: experience
     id: experience
     content:
