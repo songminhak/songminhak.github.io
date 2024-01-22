@@ -65,12 +65,12 @@ sections:
           description: Expense fully covered by KAIST Presidential Fellowship.
         - title: Undergraduate Researcher
           company: Applied Artificial Intelligence Lab (AAI Lab)
-          company_url: https://aailab.kaist.ac.kr/xe2/
+          company_url: https://aai.kaist.ac.kr/
           company_logo: ''
           location: KAIST ISysE, South Korea
           date_start: '2021-06-01'
           date_end: '2021-12-31'
-          description: Under supervision of [Prof. Il-Chul Moon](https://aailab.kaist.ac.kr/xe2/members_professor/6749).
+          description: Under supervision of [Prof. Il-Chul Moon](https://aai.kaist.ac.kr/).
     design:
       columns: '2'
   # - block: collection
