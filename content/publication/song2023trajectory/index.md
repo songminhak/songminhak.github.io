@@ -27,13 +27,13 @@ summary: We empirically demonstrate and provably establish the trajectory alignm
 tags: []
 featured: false
 
-# links: links = [{name = "Slides", url="path_to_slide.pdf"}, {name = "Slides", url="path_to_slide2.pdf"}]
+links: [{name="Paper", url = "https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html"}, {name="arXiv", url = "https://arxiv.org/abs/2307.04204"}]
 # - name: Paper
 #   url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html
 # links:
 # - name: arXiv
 #   url: https://arxiv.org/abs/2307.04204
-url_custom = [{name="Paper", url = "https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html"}, {name="arXiv", url = "https://arxiv.org/abs/2307.04204"}]
+# url_custom = [{name="Paper", url = "https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html"}, {name="arXiv", url = "https://arxiv.org/abs/2307.04204"}]
 url_pdf: ''
 url_code: ''
 url_dataset: ''
