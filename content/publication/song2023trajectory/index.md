@@ -27,7 +27,7 @@ summary: We empirically demonstrate and provably establish the trajectory alignm
 tags: []
 featured: false
 
-links: [{name="Paper", url = "https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html"}, {name="arXiv", url = "https://arxiv.org/abs/2307.04204"}]
+links: [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 # - name: Paper
 #   url: https://proceedings.neurips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html
 # links:
