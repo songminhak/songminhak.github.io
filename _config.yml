@@ -1,0 +1,56 @@
+# Basic Information 
+title: Minhak Song
+position: Undergraduate Student
+affiliation: KAIST
+email: minhaksong (at) kaist (dot) ac (dot) kr
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Minhak Song
+description: Minhak Song is an underduate student at KAIST, interested in building the theoretical foundations of machine learning, deep learning, and reinforcement learning through the lens of optimization theory and statistics.
+canonical: https://songminhak.github.io
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=9Aagu58AAAAJ&hl
+cv_link: assets/files/cv_minhak-song.pdf
+linkedin: https://www.linkedin.com/in/minhak-song/
+twitter: https://x.com/MinhakSong
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/icon.png
+favicon_dark: ./assets/img/icon.png
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Serif" # or "Sans Serif"
+
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
+
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
+  - html_source_file/

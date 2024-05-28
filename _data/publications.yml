@@ -1,0 +1,11 @@
+main:
+
+  - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
+    authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra (*Equal contribution)
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    arxiv: https://arxiv.org/abs/2310.01082
+
+  - title: "Trajectory Alignment: Understanding the Edge of Stability Phenomenon via Bifurcation Theory"
+    authors: <strong>Minhak Song</strong>, Chulhee Yun
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    arxiv: https://arxiv.org/abs/2307.04204
