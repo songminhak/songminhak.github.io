@@ -1,11 +1,18 @@
 main:
 
+  - title: "Does SGD really happen in tiny subspaces?"
+    authors: <strong>Minhak Song*</strong>, Kwangjun Ahn, Chulhee Yun
+    conference: Manuscript, 2024.
+    arxiv: https://arxiv.org/abs/2405.16002
+
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
     authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra (*Equal contribution)
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     arxiv: https://arxiv.org/abs/2310.01082
+    paper: https://openreview.net/forum?id=0uI5415ry7
 
   - title: "Trajectory Alignment: Understanding the Edge of Stability Phenomenon via Bifurcation Theory"
     authors: <strong>Minhak Song</strong>, Chulhee Yun
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     arxiv: https://arxiv.org/abs/2307.04204
+    paper: https://papers.nips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html
