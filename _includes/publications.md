@@ -11,6 +11,9 @@
       <div class="title"><a href="{{ link.arxiv }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
+      {% if link.workshop %} 
+      <div class="periodical"><em>{{ link.workshop }}</em></div>
+      {% endif %}
     <div class="links">
       {% if link.paper %} 
       <a href="{{ link.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
