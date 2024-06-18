@@ -16,6 +16,7 @@ I am on leave of absence from my studies at KAIST to fulfill my mandatory milita
 
 ## News
 
+- **[Jun. 2024]** Our [paper](https://arxiv.org/abs/2405.16002) on SGD dynamics along Hessian eigenspaces is accepted to **ICML 2024 Workshop** on High-dimensional Learning Dynamics: The Emergence of Structure and Reasoning.
 - **[Jan. 2024]** Our [paper](https://arxiv.org/abs/2310.01082) on the optimization characteristics of linear Transformers is accepted to **ICLR 2024**.
 - **[Oct. 2023]** Our [paper](https://arxiv.org/abs/2310.01082) on the optimization characteristics of linear Transformers is accepted to **NeurIPS 2023 Workshop** on Mathematics of Modern Machine Learning (M3L) as an **oral presentation**.
 - **[Sep. 2023]** Our [paper](https://arxiv.org/abs/2307.04204) on understanding the Edge of Stability phenomenon in deep learning is accepted to **NeurIPS 2023**.
