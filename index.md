@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of modern machine learning through the lens of optimization theory and statistics. Recently, I am focusing on understanding the training dynamics of gradient-based optimization methods in deep learning, closely working with [Prof. Chulhee Yun](https://chulheeyun.github.io).
+Hi! I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of modern machine learning through the lens of optimization theory and statistics. Recently, I am focusing on understanding the training dynamics of gradient-based optimization methods in deep learning, closely working with [Prof. Chulhee Yun](https://chulheeyun.github.io). Feel free to reach out for discussions and potential collaborations!
 
-I am on leave of absence from my studies at KAIST to fulfill my mandatory military service in South Korea, from February 2023 to November 2024.
+Currently, I am on a leave of absence from KAIST to complete my mandatory military service in South Korea, which will last from February 2023 to November 2024.
 
 ## Research Interests
 
