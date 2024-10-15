@@ -10,7 +10,7 @@
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.arxiv }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      {% if ink.footnote %} 
+      {% if link.footnote %} 
       <div class="author">{{ link.footnote }}</div>
       {% endif %}
       <div class="periodical"><em>{{ link.conference }}</em></div>
