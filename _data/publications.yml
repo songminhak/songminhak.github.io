@@ -7,7 +7,8 @@ main:
     arxiv: https://arxiv.org/abs/2405.16002
 
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
-    authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra (*Equal contribution)
+    authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra
+    footnote: (*Equal contribution)
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong>(Oral)</strong>.
     arxiv: https://arxiv.org/abs/2310.01082
