@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of modern machine learning through the lens of optimization theory and statistics. Recently, I am focusing on understanding the training dynamics of gradient-based optimization methods in deep learning, closely working with [Prof. Chulhee Yun](https://chulheeyun.github.io). Feel free to reach out for discussions and potential collaborations!
+Hi! I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of modern machine learning through the lens of optimization theory and statistics. Recently, I am focusing on understanding the training dynamics of gradient-based optimization methods in deep learning, closely working with [Prof. Chulhee Yun](https://chulheeyun.github.io).
+
+Feel free to reach out for discussions and potential collaborations!
 
 ## Research Interests
 
