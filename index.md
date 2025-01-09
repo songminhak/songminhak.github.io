@@ -16,6 +16,7 @@ Feel free to reach out for discussions and potential collaborations!
 
 ## News
 
+- **[Jan. 2025]** I joined [Prof. Simon Du](https://simonshaoleidu.com/)'s group as a visiting student at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/).
 - **[Jun. 2024]** Our [paper](https://arxiv.org/abs/2405.16002) on SGD dynamics along Hessian eigenspaces is accepted to **ICML 2024 Workshop** on High-dimensional Learning Dynamics: The Emergence of Structure and Reasoning.
 - **[Jan. 2024]** Our [paper](https://arxiv.org/abs/2310.01082) on the optimization characteristics of linear Transformers is accepted to **ICLR 2024**.
 - **[Oct. 2023]** Our [paper](https://arxiv.org/abs/2310.01082) on the optimization characteristics of linear Transformers is accepted to **NeurIPS 2023 Workshop** on Mathematics of Modern Machine Learning as an **oral presentation**.
