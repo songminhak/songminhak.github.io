@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is Minhak Song (송민학), and I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of modern machine learning through the lens of optimization theory and statistics. Recently, I have been studying the training dynamics of gradient-based optimization methods in deep learning under the guidance of  [Prof. Chulhee Yun](https://chulheeyun.github.io). Currently, I am a visiting student at the [University of Washington](https://www.washington.edu/), hosted by [Prof. Simon Du](https://simonshaoleidu.com/), where I am working on theoretical aspects of reinforcement learning.
+Hi! My name is Minhak Song (송민학), and I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), double majoring in Industrial & Systems Engineering and Mathematical Sciences. My research interest lies in building the theoretical foundations of modern machine learning through the lens of optimization theory and statistics. Recently, I have been studying the training dynamics of optimization algorithms in deep learning under the guidance of  [Prof. Chulhee Yun](https://chulheeyun.github.io). Currently, I am a visiting student at the [University of Washington](https://www.washington.edu/), hosted by [Prof. Simon Du](https://simonshaoleidu.com/), where I am working on theoretical aspects of reinforcement learning.
 
 Feel free to reach out for discussions and potential collaborations!
 
