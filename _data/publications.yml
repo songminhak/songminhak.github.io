@@ -2,9 +2,10 @@ main:
 
   - title: "Does SGD really happen in tiny subspaces?"
     authors: <strong>Minhak Song</strong>, Kwangjun Ahn, Chulhee Yun
-    conference: Manuscript, 2024.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     workshop: "<strong>ICML 2024 Workshop</strong> on High-dimensional Learning Dynamics: The Emergence of Structure and Reasoning."
     arxiv: https://arxiv.org/abs/2405.16002
+    paper: https://openreview.net/forum?id=v6iLQBoIJw
 
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
     authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra
