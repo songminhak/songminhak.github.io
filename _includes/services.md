@@ -1,6 +1,6 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+<h4 style="margin:0 10px 0;">Conference/Workshop Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024-2025</autocolor></a></li>
@@ -16,4 +16,8 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://aistats.org/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2025</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://sites.google.com/view/hidimlearning"><autocolor>ICML 2025 Workshop on High-dimensional Learning Dynamics</autocolor></a></li>
 </ul>
