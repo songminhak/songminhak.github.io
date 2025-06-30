@@ -2,7 +2,7 @@ main:
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
     authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
     footnote: (*Equal contribution)
-    conference: workshop: "<strong>ICML 2024 Workshop</strong> on High-dimensional Learning Dynamics."
+    conference: "<strong>ICML 2024 Workshop</strong> on High-dimensional Learning Dynamics."
 
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
     authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon Du
