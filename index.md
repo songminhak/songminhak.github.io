@@ -10,9 +10,8 @@ Feel free to reach out for discussions and potential collaborations!
 
 ## Research Interests
 
-- **Machine Learning Theory**
+- **Theoretical Foundations of Machine Learning**
 - **Optimization**
-- **Statistics**
 
 ## News
 
