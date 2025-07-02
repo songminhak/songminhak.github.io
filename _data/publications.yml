@@ -1,12 +1,10 @@
 main:
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
     authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
-    footnote: (*Equal contribution)
     conference: "<strong>ICML 2025 Workshop</strong> on High-dimensional Learning Dynamics."
 
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
     authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon Du
-    footnote: (*Equal contribution)
     conference: Manuscript, 2025.
     arxiv: https://arxiv.org/abs/2505.19770
 
@@ -25,9 +23,8 @@ main:
 
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
     authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra
-    footnote: (*Equal contribution)
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong>(Oral)</strong>.
+    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong style="color:red">(Oral)</strong>.
     arxiv: https://arxiv.org/abs/2310.01082
     paper: https://openreview.net/forum?id=0uI5415ry7
 
