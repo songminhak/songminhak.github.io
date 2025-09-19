@@ -17,7 +17,7 @@ I’m always open to conversations and potential collaborations. Feel free to re
 
 ## News
 
-- **[Sep. 2025]** Our [paper](https://arxiv.org/abs/2507.09846) on understanding the benefit of Schedule-Free Optimizer through the river-valley loss landsacpe is accepted to **NeurIPS 2025**.
+- **[Sep. 2025]** Our [paper](https://arxiv.org/abs/2507.09846) on understanding the benefit of Schedule-Free Optimizer through the river-valley loss landscape is accepted to **NeurIPS 2025**.
 - **[Jun. 2025]** I joined [Prof. Sewoong Oh](https://homes.cs.washington.edu/~sewoong/)'s group as a visiting student at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the [University of Washington](https://www.washington.edu/).
 - **[May. 2025]** Our [paper](https://arxiv.org/abs/2506.06940) on how the dataset, network architecture, and optimizer influence progressive sharpening is accepted to **ICML 2025**.
 - **[Jan. 2025]** Our [paper](https://arxiv.org/abs/2405.16002) on SGD dynamics along Hessian eigenspaces is accepted to **ICLR 2025**.
