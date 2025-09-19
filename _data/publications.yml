@@ -5,6 +5,7 @@ main:
     arxiv: https://arxiv.org/abs/2505.19770
 
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
+    authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     workshop: "<strong>ICML 2025 Workshop</strong> on High-dimensional Learning Dynamics."
     arxiv: https://arxiv.org/abs/2507.09846
