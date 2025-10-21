@@ -1,4 +1,9 @@
 main:
+  - title: "Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime"
+    authors: Beomhan Baek*, <strong>Minhak Song*</strong>, Chulhee Yun
+    conference: Manuscript, 2025.
+    workshop: "<strong>NeurIPS 2025 Workshop</strong> on Optimization for Machine Learning."
+
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
     authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon Du
     conference: Manuscript, 2025.
