@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference/Workshop Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024-2025</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>Neural Information Processing Systems (NeurIPS) 2024-2025 (Selected as a **Top Reviewer** at NeurIPS 2025)</autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
