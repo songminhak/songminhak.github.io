@@ -6,7 +6,7 @@ main:
     arxiv: https://arxiv.org/abs/2510.26303
 
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
-    authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon Du
+    authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon S. Du
     conference: Manuscript, 2025.
     arxiv: https://arxiv.org/abs/2505.19770
 
@@ -41,4 +41,4 @@ main:
     authors: <strong>Minhak Song</strong>, Chulhee Yun
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     arxiv: https://arxiv.org/abs/2307.04204
-    paper: https://papers.nips.cc/paper_files/paper/2023/hash/e2a9256bd816ab9e082dfaa22f1f62a2-Abstract-Conference.html
+    paper: https://openreview.net/forum?id=PnJaA0A8Lr
