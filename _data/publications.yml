@@ -10,6 +10,10 @@ main:
     conference: Manuscript, 2025.
     arxiv: https://arxiv.org/abs/2505.19770
 
+  - title: "Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis"
+    authors: Shenyang Deng, Boyao Liao, Zhuoli Ouyang, Tianyu Pang, <strong>Minhak Song</strong>, Yaoqing Yang
+    conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong>, 2026.
+
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
     authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
