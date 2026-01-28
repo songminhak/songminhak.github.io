@@ -1,48 +1,49 @@
 main:
-  - title: "Implicit Bias of Per-sample Adam on Separable Data: Departure from the Full-batch Regime"
-    authors: Beomhan Baek*, <strong>Minhak Song*</strong>, Chulhee Yun
-    conference: Manuscript, 2025.
-    workshop: "<strong>NeurIPS 2025 Workshop</strong> on Optimization for Machine Learning."
-    arxiv: https://arxiv.org/abs/2510.26303
-
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
     authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon S. Du
-    conference: Manuscript, 2025.
+    conference: Manuscript
     arxiv: https://arxiv.org/abs/2505.19770
+
+  - title: "Implicit Bias of Per-Sample Adam on Separable Data: Departure from the Full-Batch Regime"
+    authors: Beomhan Baek*, <strong>Minhak Song*</strong>, Chulhee Yun
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2025
+    workshop: "<strong>NeurIPS 2025 Workshop</strong> on Optimization for Machine Learning"
+    arxiv: https://arxiv.org/abs/2510.26303
 
   - title: "Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis"
     authors: Shenyang Deng, Boyao Liao, Zhuoli Ouyang, Tianyu Pang, <strong>Minhak Song</strong>, Yaoqing Yang
-    conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong>, 2026.
+    conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong> 2026
+    arxiv: https://arxiv.org/abs/2601.11789
 
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
     authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
-    workshop: "<strong>ICML 2025 Workshop</strong> on High-dimensional Learning Dynamics."
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> 2025
+    workshop: "<strong>ICML 2025 Workshop</strong> on High-dimensional Learning Dynamics"
     arxiv: https://arxiv.org/abs/2507.09846
     paper: https://openreview.net/forum?id=CGx4XU9rCA
 
   - title: "Understanding Sharpness Dynamics in NN Training with a Minimalist Example: The Effects of Dataset Difficulty, Depth, Stochasticity, and More"
     authors: Geonhui Yoo, <strong>Minhak Song</strong>, Chulhee Yun
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    conference: International Conference on Machine Learning <strong>(ICML)</strong> 2025
     arxiv: https://arxiv.org/abs/2506.06940
     paper: https://openreview.net/forum?id=XfjrLEPOQV
 
   - title: "Does SGD really happen in tiny subspaces?"
     authors: <strong>Minhak Song</strong>, Kwangjun Ahn, Chulhee Yun
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
-    workshop: "<strong>ICML 2024 Workshop</strong> on High-dimensional Learning Dynamics."
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2025
+    workshop: "<strong>ICML 2024 Workshop</strong> on High-dimensional Learning Dynamics"
     arxiv: https://arxiv.org/abs/2405.16002
     paper: https://openreview.net/forum?id=v6iLQBoIJw
 
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
     authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong style="color:red">(Oral)</strong>.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2024
+    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong style="color:red">(Oral)</strong>
     arxiv: https://arxiv.org/abs/2310.01082
     paper: https://openreview.net/forum?id=0uI5415ry7
 
   - title: "Trajectory Alignment: Understanding the Edge of Stability Phenomenon via Bifurcation Theory"
     authors: <strong>Minhak Song</strong>, Chulhee Yun
-    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> 2023
     arxiv: https://arxiv.org/abs/2307.04204
     paper: https://openreview.net/forum?id=PnJaA0A8Lr
