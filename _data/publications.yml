@@ -6,7 +6,7 @@ main:
 
   - title: "Implicit Bias of Per-Sample Adam on Separable Data: Departure from the Full-Batch Regime"
     authors: Beomhan Baek*, <strong>Minhak Song*</strong>, Chulhee Yun
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2025
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2026
     workshop: "<strong>NeurIPS 2025 Workshop</strong> on Optimization for Machine Learning"
     arxiv: https://arxiv.org/abs/2510.26303
 

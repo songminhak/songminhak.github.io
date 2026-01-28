@@ -11,7 +11,7 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
+  <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025-2026</autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
