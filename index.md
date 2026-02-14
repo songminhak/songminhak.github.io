@@ -6,7 +6,7 @@ layout: homepage
 
 Hi! I am an undergraduate student at [KAIST](https://www.kaist.ac.kr/en/), majoring in Mathematical Sciences. During my undergraduate studies, I have been extremely fortunate to be advised by [Chulhee Yun](https://chulheeyun.github.io), [Simon Shaolei Du](https://simonshaoleidu.com/), and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/).
 
-My research interests broadly span the foundations of deep learning, with the goal of bridging theory and practice. Recently, I have been focusing on understanding the optimization dynamics of deep learning, particularly in the pre-training and post-training of language models, and leveraging these insights to design principled and efficient optimization algorithms.
+My research interests broadly span the foundations of deep learning, with the goal of bridging theory and practice. Recently, I have been focusing on understanding the optimization dynamics in deep learning, particularly in the pre-training and post-training of language models, and leveraging these insights to design principled and efficient optimization algorithms.
 
 ## Research Interests
 
