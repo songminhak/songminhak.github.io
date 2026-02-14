@@ -23,6 +23,6 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://sites.google.com/view/hidimlearning"><autocolor>ICML 2026 Workshop on Workshop on Scientific Methods for Understanding Deep Learning</autocolor></a></li>
+  <li><a href="https://sites.google.com/view/hidimlearning"><autocolor>ICML 2026 Workshop on Scientific Methods for Understanding Deep Learning</autocolor></a></li>
 </ul>
 
