@@ -15,8 +15,9 @@ My research interests broadly span the foundations of deep learning, with the go
 
 ## News
 
+- **[Feb. 2026]** Our [paper](https://arxiv.org/abs/2601.11789) won the **Best Student Paper Award** at **ALT 2026**.
 - **[Jan. 2026]** Our [paper](https://arxiv.org/abs/2510.26303) on the implicit bias of per-sample Adam on separable data is accepted to **ICLR 2026**.
-- **[Dec. 2025]** Our [paper](https://arxiv.org/abs/2601.11789) on the theory of the spurious alignment of SGD in ill-conditioned high-dimensional quadratics is accepted to **ALT 2026**.
+- **[Dec. 2025]** Our [paper](https://arxiv.org/abs/2601.11789) on the theory of the [spurious alignment of SGD](https://arxiv.org/abs/2405.16002) in ill-conditioned high-dimensional quadratics is accepted to **ALT 2026**.
 - **[Oct. 2025]** I was selected as a [Top Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer) (top 8% of reviewers) at **NeurIPS 2025**.
 - **[Sep. 2025]** Our [paper](https://arxiv.org/abs/2507.09846) on understanding the benefit of Schedule-Free Optimizer through the river-valley loss landscape is accepted to **NeurIPS 2025**.
 - **[Jun. 2025]** I joined [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/)'s group as a visiting student researcher at the [University of Washington](https://www.washington.edu/).
