@@ -9,11 +9,13 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2026
     workshop: "<strong>NeurIPS 2025 Workshop</strong> on Optimization for Machine Learning"
     arxiv: https://arxiv.org/abs/2510.26303
+    paper: https://openreview.net/forum?id=LJdAdCo3BN
 
   - title: "Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis"
     authors: Shenyang Deng, Boyao Liao, Zhuoli Ouyang, Tianyu Pang, <strong>Minhak Song</strong>, Yaoqing Yang
     conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong> 2026 <strong style="color:red">(Best Student Paper)</strong>
     arxiv: https://arxiv.org/abs/2601.11789
+    paper: https://openreview.net/forum?id=TACb1ONsU5
 
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
     authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
