@@ -1,7 +1,13 @@
 main:
+  - title: "Zeroth-Order Optimization at the Edge of Stability"
+    authors: <strong>Minhak Song</strong>, Liang Zhang, Bingcong Li, Niao He, Michael Muehlebach, Sewoong Oh
+    conference: Working paper
+    workshop: <strong>ICLR 2026 Workshop</strong> on Scientific Methods for Understanding Deep Learning <strong style="color:red">(Oral)</strong>
+    arxiv: https://arxiv.org/abs/2604.14669
+
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
     authors: Ruizhe Shi*, <strong>Minhak Song*</strong>, Runlong Zhou, Zihan Zhang, Maryam Fazel, Simon S. Du
-    conference: Manuscript
+    conference: Working paper
     arxiv: https://arxiv.org/abs/2505.19770
 
   - title: "Implicit Bias of Per-Sample Adam on Separable Data: Departure from the Full-Batch Regime"
