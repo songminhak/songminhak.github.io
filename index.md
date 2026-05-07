@@ -17,7 +17,7 @@ My research interests broadly span the foundations of deep learning, with the go
 
 - **[Apr. 2026]** Two papers ([Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669), [Dichotomy of RLHF and DPO](https://arxiv.org/abs/2505.19770)) are accepted to **ICML 2026**.
 - **[Apr. 2026]** I am giving a **contributed talk** on [Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669) at the **ICLR 2026** Workshop on [Scientific Methods for Understanding Deep Learning](https://scienceofdlworkshop.github.io/2026/) in Rio, Brazil.
-- **[Feb. 2026]** Our [paper](https://arxiv.org/abs/2601.11789) won the **Best Student Paper Award** at **ALT 2026**.
+- **[Feb. 2026]** Our [paper](https://arxiv.org/abs/2601.11789) won the [**Best Student Paper Award**](https://algorithmiclearningtheory.org/alt2026/distinguished-papers/) at **ALT 2026**.
 - **[Jan. 2026]** Our [paper](https://arxiv.org/abs/2510.26303) on the implicit bias of per-sample Adam on separable data is accepted to **ICLR 2026**.
 - **[Dec. 2025]** Our [paper](https://arxiv.org/abs/2601.11789) on the theory of the [spurious alignment of SGD](https://arxiv.org/abs/2405.16002) in ill-conditioned high-dimensional quadratics is accepted to **ALT 2026**.
 - **[Oct. 2025]** I was selected as a [Top Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer) (top 8% of reviewers) at **NeurIPS 2025**.
