@@ -19,7 +19,11 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://sites.google.com/view/hidimlearning"><autocolor>ICML 2025 Workshop on High-dimensional Learning Dynamics</autocolor></a></li>
+  <li><a href="https://sites.google.com/view/hidimlearning"><autocolor>ICML 2025-2026 Workshop on High-dimensional Learning Dynamics</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://sites.google.com/view/rlxf-icml2026"><autocolor>ICML 2026 Workshop on Reinforcement Learning from World Feedback</autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
