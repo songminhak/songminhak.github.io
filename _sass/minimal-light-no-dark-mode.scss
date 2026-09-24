@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   margin: 0 0 0.75rem;
-  font-size: 38px;
+  font-size: 32px;
   letter-spacing: -0.025em;
 }
 h2 {
@@ -79,19 +79,18 @@ img { display: block; max-width: 100%; }
 }
 .profile { position: sticky; top: 48px; text-align: center; }
 .avatar {
-  width: 168px;
-  height: 168px;
-  margin: 0 auto 1.5rem;
-  border-radius: 50%;
-  object-fit: cover;
+  width: 120px;
+  height: auto;
+  margin: 0 auto 1rem;
+  object-fit: contain;
 }
-.profile-position { margin: 0 0 0.1rem; font-size: 22px; line-height: 1.4; }
-.profile-affiliation { margin: 0 0 0.9rem; font-size: 21px; }
+.profile-position { margin: 0 0 0.1rem; font-size: 19px; line-height: 1.4; }
+.profile-affiliation { margin: 0 0 0.75rem; font-size: 19px; }
 .profile-email {
   margin: 0;
   color: var(--color-muted);
   font-family: "Ubuntu Mono", ui-monospace, monospace;
-  font-size: 16px;
+  font-size: 15px;
   overflow-wrap: anywhere;
 }
 .social-icons {
@@ -99,7 +98,7 @@ img { display: block; max-width: 100%; }
   flex-wrap: wrap;
   justify-content: center;
   gap: 0.25rem;
-  margin-top: 1.25rem;
+  margin-top: 1rem;
 }
 .social-icons a {
   display: inline-flex;
@@ -108,7 +107,7 @@ img { display: block; max-width: 100%; }
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  font-size: 23px;
+  font-size: 21px;
 }
 .social-icons a:hover { background: var(--color-accent-soft); text-decoration: none; }
 
@@ -166,12 +165,12 @@ hr { margin: 2rem 0; border: 0; border-top: 1px solid var(--color-border); }
     margin-top: 40px;
   }
   .profile { position: static; }
-  .avatar { width: 144px; height: 144px; margin-bottom: 1.1rem; }
+  .avatar { width: 108px; }
 }
 @media screen and (max-width: 480px) {
   body { font-size: 19px; line-height: 1.55; }
   .wrapper { width: calc(100% - 40px); margin: 32px auto 48px; gap: 36px; }
-  h1 { font-size: 36px; }
+  h1 { font-size: 30px; }
   h2 { margin-top: 2.25rem; font-size: 29px; }
   #research-interests + ul { display: block; }
   #research-interests + ul li + li { margin-top: 0.35rem; }
