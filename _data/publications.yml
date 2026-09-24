@@ -2,7 +2,7 @@ main:
   - title: "Zeroth-Order Optimization at the Edge of Stability"
     authors: <strong>Minhak Song</strong>, Liang Zhang, Bingcong Li, Niao He, Michael Muehlebach, Sewoong Oh
     conference: International Conference on Machine Learning <strong>(ICML)</strong> 2026
-    workshop: <strong>ICLR 2026 Workshop</strong> on Scientific Methods for Understanding Deep Learning <strong style="color:red">(Oral)</strong>
+    workshop: <strong>ICLR 2026 Workshop</strong> on Scientific Methods for Understanding Deep Learning <strong class="publication-highlight">(Oral)</strong>
     arxiv: https://arxiv.org/abs/2604.14669
 
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
@@ -19,7 +19,7 @@ main:
 
   - title: "Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis"
     authors: Shenyang Deng, Boyao Liao, Zhuoli Ouyang, Tianyu Pang, <strong>Minhak Song</strong>, Yaoqing Yang
-    conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong> 2026 <strong style="color:red">(Best Student Paper)</strong>
+    conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong> 2026 <strong class="publication-highlight">(Best Student Paper)</strong>
     arxiv: https://arxiv.org/abs/2601.11789
     paper: https://openreview.net/forum?id=TACb1ONsU5
 
@@ -46,7 +46,7 @@ main:
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
     authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra
     conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2024
-    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong style="color:red">(Oral)</strong>
+    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong class="publication-highlight">(Oral)</strong>
     arxiv: https://arxiv.org/abs/2310.01082
     paper: https://openreview.net/forum?id=0uI5415ry7
 

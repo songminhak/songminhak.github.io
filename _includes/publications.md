@@ -1,5 +1,5 @@
-<h2 id="publications" style="margin-bottom: 5px;">Publications</h2>
-<small style="display:block; margin-top: 5px; margin-bottom: 0px; font-size: 15px; color: #444;">(* denotes equal contribution)</small>
+<h2 id="publications">Publications</h2>
+<small class="publications-note">(* denotes equal contribution)</small>
 
 <div class="publications">
 <ol class="bibliography">
@@ -7,8 +7,6 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row">
-  <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.arxiv }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       {% if link.footnote %} 
@@ -20,29 +18,27 @@
       {% endif %}
     <div class="links">
       {% if link.paper %} 
-      <a href="{{ link.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="{{ link.paper }}" class="btn" target="_blank" rel="noopener">Paper</a>
       {% endif %}
       {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
+      <a href="{{ link.arxiv }}" class="btn" target="_blank" rel="noopener">arXiv</a>
       {% endif %}
       {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="{{ link.code }}" class="btn" target="_blank" rel="noopener">Code</a>
       {% endif %}
       {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="{{ link.page }}" class="btn" target="_blank" rel="noopener">Project Page</a>
       {% endif %}
       {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="{{ link.bibtex }}" class="btn" target="_blank" rel="noopener">BibTeX</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong class="publication-highlight">{{ link.notes }}</strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
     </div>
-  </div>
-</div>
 </li>
 
 {% endfor %}

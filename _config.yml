@@ -1,14 +1,15 @@
 # Basic Information 
 title: Minhak Song
 title_KR: 송민학
-position: Undergraduate Student
-affiliation: KAIST
-email: minhaksong (at) kaist.ac.kr
+position: PhD Student
+affiliation: Stanford University
+affiliation_link: https://www.stanford.edu/
+email: minhaks (at) stanford.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Minhak Song, 송민학, KAIST, Undergraduate Student, Machine Learning, Deep Learning, Reinforcement Learning, Optimization, Statistics
-description: Minhak Song is an underduate student at KAIST, interested in building the theoretical foundations of machine learning, deep learning, and reinforcement learning through the lens of optimization theory and statistics.
+keywords: Minhak Song, 송민학, Stanford University, Computer Science, PhD Student, Science of Deep Learning, Pretraining, Optimization, KAIST
+description: Minhak Song is a first-year PhD student in Computer Science at Stanford University, working with Percy Liang. His research interests center on the science of deep learning, with a current focus on pretraining.
 canonical: https://songminhak.github.io
 
 # Links 

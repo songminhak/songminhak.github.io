@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-Hi! I am an undergraduate student majoring in [Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at [KAIST](https://www.kaist.ac.kr/en/), where I am fortunate to be advised by [Chulhee Yun](https://chulheeyun.github.io).  I was also a visiting student at the [University of Washington](https://www.washington.edu/), working with [Simon Shaolei Du](https://simonshaoleidu.com/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/).
+Hi! I am a first-year PhD student in [Computer Science](https://www.cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), working with [Percy Liang](https://cs.stanford.edu/~pliang/).
 
-My research interests broadly span the foundations of deep learning, with the goal of bridging theory and practice. Recently, I have been focusing on understanding the optimization dynamics in deep learning, particularly in the pre-training and post-training of language models, and leveraging these insights to design principled and efficient optimization algorithms.
+Previously, I completed my undergraduate studies in [Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at [KAIST](https://www.kaist.ac.kr/en/), where I worked with [Chulhee Yun](https://chulheeyun.github.io). I was also a visiting student at the [University of Washington](https://www.washington.edu/), working with [Simon Shaolei Du](https://simonshaoleidu.com/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/).
 
-**Update:** Starting in Fall 2026, I will join [Stanford University](https://www.stanford.edu/) as a PhD student in [Computer Science](https://www.cs.stanford.edu/), supported by the Stanford School of Engineering Fellowship.
+My research interests center on the science of deep learning, with a current focus on pretraining. My earlier work focused on understanding optimization dynamics in deep learning.
 
 ## Research Interests
 
-- **DL/RL/LLM Theory**
-- **Optimization**
+- **Science of Deep Learning**
+- **Pretraining**
 
 ## News
 
+- **[Sep. 2026]** I am starting my PhD in Computer Science at [Stanford University](https://www.stanford.edu/).
 - **[May. 2026]** I was selected as a [Gold Reviewer](https://icml.cc/Conferences/2026/ProgramCommittee#gold:~:text=Minhak%20Song) (top 25% of reviewers) at **ICML 2026**.
 - **[Apr. 2026]** Two papers ([Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669), [Dichotomy of RLHF and DPO](https://arxiv.org/abs/2505.19770)) are accepted to **ICML 2026**.
 - **[Apr. 2026]** I gave a **contributed talk** on [Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669) at the **ICLR 2026** Workshop on [Scientific Methods for Understanding Deep Learning](https://scienceofdlworkshop.github.io/2026/) in Rio, Brazil.
