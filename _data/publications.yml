@@ -1,8 +1,18 @@
 main:
+  - title: "AMUSE: Anytime Muon with Stable Gradient Evaluation"
+    selected: true
+    authors: Jueun Kim, Baekrok Shin, Jihun Yun, Beomhan Baek, <strong>Minhak Song</strong>, Chulhee Yun
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> 2026 <strong class="publication-highlight">(Spotlight)</strong>
+    arxiv: https://arxiv.org/abs/2605.22432
+
+  - title: "Beyond Clipping: Signed Logarithmic Smoothing for Policy Optimization"
+    authors: Jihun Yun*, Sungjoon Yoon*, Beomhan Baek, <strong>Minhak Song</strong>, Jongha Jon Ryu, Kwang-Sung Jun
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> 2026
+
   - title: "Zeroth-Order Optimization at the Edge of Stability"
+    selected: true
     authors: <strong>Minhak Song</strong>, Liang Zhang, Bingcong Li, Niao He, Michael Muehlebach, Sewoong Oh
     conference: International Conference on Machine Learning <strong>(ICML)</strong> 2026
-    workshop: <strong>ICLR 2026 Workshop</strong> on Scientific Methods for Understanding Deep Learning <strong class="publication-highlight">(Oral)</strong>
     arxiv: https://arxiv.org/abs/2604.14669
 
   - title: "Understanding the Performance Gap in Preference Learning: A Dichotomy of RLHF and DPO"
@@ -13,20 +23,20 @@ main:
   - title: "Implicit Bias of Per-Sample Adam on Separable Data: Departure from the Full-Batch Regime"
     authors: Beomhan Baek*, <strong>Minhak Song*</strong>, Chulhee Yun
     conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2026
-    workshop: "<strong>NeurIPS 2025 Workshop</strong> on Optimization for Machine Learning"
     arxiv: https://arxiv.org/abs/2510.26303
     paper: https://openreview.net/forum?id=LJdAdCo3BN
 
   - title: "Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis"
+    selected: true
     authors: Shenyang Deng, Boyao Liao, Zhuoli Ouyang, Tianyu Pang, <strong>Minhak Song</strong>, Yaoqing Yang
     conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong> 2026 <strong class="publication-highlight">(Best Student Paper)</strong>
     arxiv: https://arxiv.org/abs/2601.11789
     paper: https://openreview.net/forum?id=TACb1ONsU5
 
   - title: "Through the River: Understanding the Benefit of Schedule-Free Methods for Language Model Training"
+    selected: true
     authors: <strong>Minhak Song*</strong>, Beomhan Baek*, Kwangjun Ahn, Chulhee Yun
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> 2025
-    workshop: "<strong>ICML 2025 Workshop</strong> on High-dimensional Learning Dynamics"
     arxiv: https://arxiv.org/abs/2507.09846
     paper: https://openreview.net/forum?id=CGx4XU9rCA
 
@@ -37,16 +47,16 @@ main:
     paper: https://openreview.net/forum?id=XfjrLEPOQV
 
   - title: "Does SGD really happen in tiny subspaces?"
+    selected: true
     authors: <strong>Minhak Song</strong>, Kwangjun Ahn, Chulhee Yun
     conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2025
-    workshop: "<strong>ICML 2024 Workshop</strong> on High-dimensional Learning Dynamics"
     arxiv: https://arxiv.org/abs/2405.16002
     paper: https://openreview.net/forum?id=v6iLQBoIJw
 
   - title: "Linear attention is (maybe) all you need (to understand Transformer optimization)"
+    selected: true
     authors: Kwangjun Ahn*, Xiang Cheng*, <strong>Minhak Song*</strong>, Chulhee Yun, Ali Jadbabaie, Suvrit Sra
     conference: International Conference on Learning Representations <strong>(ICLR)</strong> 2024
-    workshop: <strong>NeurIPS 2023 Workshop</strong> on Mathematics of Modern Machine Learning <strong class="publication-highlight">(Oral)</strong>
     arxiv: https://arxiv.org/abs/2310.01082
     paper: https://openreview.net/forum?id=0uI5415ry7
 

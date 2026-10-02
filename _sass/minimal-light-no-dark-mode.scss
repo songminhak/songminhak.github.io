@@ -18,7 +18,7 @@ body {
   border-top: 5px solid #8c1515;
   background: var(--color-background);
   color: var(--color-text);
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -51,17 +51,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
   margin: 0 0 0.75rem;
-  font-size: 32px;
+  font-size: 30px;
   letter-spacing: -0.025em;
 }
 h2 {
   margin: 2.75rem 0 1.15rem;
   padding-bottom: 0.65rem;
   border-bottom: 1px solid var(--color-border);
-  font-size: 32px;
+  font-size: 30px;
   letter-spacing: -0.015em;
 }
-h3, h4 { margin: 1.5rem 0 0.75rem; font-size: 22px; }
+h3, h4 { margin: 1.5rem 0 0.75rem; font-size: 20px; }
 p, ul, ol, table, pre, dl { margin: 0 0 1.25rem; }
 ul, ol { padding-left: 1.25em; }
 li { padding-left: 0.15em; margin-bottom: 0.65rem; }
@@ -84,8 +84,8 @@ img { display: block; max-width: 100%; }
   margin: 0 auto 1rem;
   object-fit: contain;
 }
-.profile-position { margin: 0 0 0.1rem; font-size: 19px; line-height: 1.4; }
-.profile-affiliation { margin: 0 0 0.75rem; font-size: 19px; }
+.profile-position { margin: 0 0 0.1rem; font-size: 18px; line-height: 1.4; }
+.profile-affiliation { margin: 0 0 0.75rem; font-size: 18px; }
 .profile-email {
   margin: 0;
   color: var(--color-muted);
@@ -118,7 +118,7 @@ img { display: block; max-width: 100%; }
 .service-list a { color: var(--color-text); }
 .service-list a:hover { color: var(--color-accent); }
 .site-footnote { margin-top: 3rem; color: var(--color-muted); }
-small { font-size: 16px; }
+small { font-size: 15px; }
 
 blockquote {
   margin: 1.5rem 0;
@@ -168,10 +168,10 @@ hr { margin: 2rem 0; border: 0; border-top: 1px solid var(--color-border); }
   .avatar { width: 108px; }
 }
 @media screen and (max-width: 480px) {
-  body { font-size: 19px; line-height: 1.55; }
+  body { font-size: 17px; line-height: 1.55; }
   .wrapper { width: calc(100% - 40px); margin: 32px auto 48px; gap: 36px; }
-  h1 { font-size: 30px; }
-  h2 { margin-top: 2.25rem; font-size: 29px; }
+  h1 { font-size: 28px; }
+  h2 { margin-top: 2.25rem; font-size: 27px; }
   #research-interests + ul { display: block; }
   #research-interests + ul li + li { margin-top: 0.35rem; }
 }

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }} | {{ site.affiliation }}{% endif %}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,11 +11,11 @@
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
     {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
+    <link rel="canonical" href="{{ site.canonical }}{% unless page.url == '/' %}{{ page.url }}{% endunless %}"/>
     {% endif %}
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/jpeg" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/jpeg" />
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
@@ -62,12 +62,6 @@
         </a>  
         {% endif %}
 
-        {% if site.cv_link %}
-        <a href="{{ site.cv_link }}" aria-label="Curriculum vitae" title="Curriculum vitae">
-          <i class="ai ai-cv" aria-hidden="true"></i>
-        </a>
-        {% endif %}
-
         {% if site.github_link %}
         <a href="{{ site.github_link }}" aria-label="GitHub" title="GitHub">
           <i class="fab fa-github" aria-hidden="true"></i>
@@ -82,7 +76,7 @@
 
         {% if site.twitter %}
         <a href="{{ site.twitter }}" aria-label="X (Twitter)" title="X (Twitter)">
-          <i class="fab fa-twitter" aria-hidden="true"></i>
+          <svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20" fill="currentColor"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932zm-1.29 19.49h2.04L6.486 3.24H4.298z"/></svg>
         </a>
         {% endif %}
         </nav>

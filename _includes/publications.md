@@ -1,10 +1,11 @@
-<h2 id="publications">Publications</h2>
+<h2 id="publications">Selected Publications</h2>
 <small class="publications-note">(* denotes equal contribution)</small>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% assign selected_publications = site.data.publications.main | where: "selected", true %}
+{% for link in selected_publications %}
 
 <li>
       <div class="title"><a href="{{ link.arxiv }}">{{ link.title }}</a></div>
@@ -44,3 +45,5 @@
 {% endfor %}
 </ol>
 </div>
+
+<p><a href="{{ site.google_scholar }}">View all publications on Google Scholar</a></p>
