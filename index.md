@@ -18,7 +18,7 @@ Previously, I completed my undergraduate studies in [Mathematical Sciences](http
 - **[Apr. 2026]** I gave a **contributed talk** on [Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669) at the **ICLR 2026** Workshop on [Scientific Methods for Understanding Deep Learning](https://scienceofdlworkshop.github.io/2026/) in Rio, Brazil.
 - **[Feb. 2026]** [Suspicious Alignment of SGD](https://arxiv.org/abs/2601.11789) won the [**Best Student Paper Award**](https://algorithmiclearningtheory.org/alt2026/distinguished-papers/) at **ALT 2026**.
 
-[Earlier news]({{ '/news.html' | relative_url }})
+[View earlier news →]({{ '/news.html' | relative_url }})
 
 {% include_relative _includes/publications.md %}
 

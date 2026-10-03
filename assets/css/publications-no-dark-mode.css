@@ -1,8 +1,6 @@
 .publications-all-link {
   margin: -0.4rem 0 0.4rem;
-  font-weight: 600;
 }
-.publications-all-link a { text-decoration: underline; }
 .publications-note {
   display: block;
   margin: 0 0 1.25rem;
@@ -22,37 +20,14 @@
 }
 .publications .title {
   margin-bottom: 0.25rem;
-  font-size: 20px;
+  font-size: 1em;
   font-weight: 600;
   line-height: 1.35;
 }
 .publications .author,
 .publications .periodical {
   margin-bottom: 0.1rem;
-  font-size: 18px;
   line-height: 1.5;
 }
 .publications .periodical { color: var(--color-muted); }
-.publications .links {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 0.5rem;
-  margin-top: 0.4rem;
-}
-.publications .links .btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 30px;
-  padding: 0.1rem 0.75rem;
-  border: 1px solid var(--color-accent);
-  border-radius: 4px;
-  font-size: 15px;
-  line-height: 1.25;
-}
-.publications .links .btn:hover {
-  background: var(--color-accent-soft);
-  text-decoration: none;
-}
 .publication-highlight { color: var(--color-accent); font-weight: 600; }

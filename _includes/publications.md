@@ -18,29 +18,6 @@
       {% if link.workshop %} 
       <div class="periodical"><em>{{ link.workshop }}</em></div>
       {% endif %}
-    <div class="links">
-      {% if link.paper %} 
-      <a href="{{ link.paper }}" class="btn" target="_blank" rel="noopener">Paper</a>
-      {% endif %}
-      {% if link.arxiv %} 
-      <a href="{{ link.arxiv }}" class="btn" target="_blank" rel="noopener">arXiv</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn" target="_blank" rel="noopener">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn" target="_blank" rel="noopener">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn" target="_blank" rel="noopener">BibTeX</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong class="publication-highlight">{{ link.notes }}</strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
 </li>
 
 {% endfor %}
