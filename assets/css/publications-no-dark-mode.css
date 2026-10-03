@@ -1,6 +1,8 @@
 .publications-all-link {
   margin: -0.4rem 0 0.4rem;
 }
+.publications-all-link a,
+.earlier-news-link { text-decoration: underline; }
 .publications-note {
   display: block;
   margin: 0 0 1.25rem;

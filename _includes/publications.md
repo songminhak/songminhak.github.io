@@ -1,5 +1,5 @@
 <h2 id="publications">Selected Publications</h2>
-<p class="publications-all-link"><a href="{{ site.google_scholar }}">View all publications on Google Scholar →</a></p>
+<p class="publications-all-link"><a href="{{ site.google_scholar }}">View all publications on Google Scholar</a></p>
 <small class="publications-note">(* denotes equal contribution)</small>
 
 <div class="publications">
