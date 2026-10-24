@@ -4,7 +4,7 @@ layout: homepage
 
 Hi! I'm Minhak.
 
-Currently, I'm a first-year PhD student in [Computer Science](https://www.cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), working with [Percy Liang](https://cs.stanford.edu/~pliang/). I'm interested in the science of deep learning, with a focus on data-efficient pretraining. I've also worked on understanding optimization dynamics in deep learning, a topic I'm still excited about.
+Currently, I'm a first-year PhD student in [Computer Science](https://www.cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), working with [Percy Liang](https://cs.stanford.edu/~pliang/). I'm interested in the science of deep learning, with a focus on data-efficient pretraining and scaling law. I've also worked on understanding optimization dynamics in deep learning, a topic I'm still excited about.
 
 Previously, I completed my undergraduate studies in [Mathematical Sciences](https://mathsci.kaist.ac.kr/home/en/) at [KAIST](https://www.kaist.ac.kr/en/), where I worked with [Chulhee Yun](https://chulheeyun.github.io). I was also a visiting student at the [University of Washington](https://www.washington.edu/), working with [Simon Shaolei Du](https://simonshaoleidu.com/) and [Sewoong Oh](https://homes.cs.washington.edu/~sewoong/).
 
