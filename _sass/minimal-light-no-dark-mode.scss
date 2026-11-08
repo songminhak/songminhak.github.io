@@ -4,7 +4,7 @@
   --color-accent-hover: #820000;
   --color-text: #2e2d29;
   --color-muted: #53565a;
-  --color-background: #fff;
+  --color-background: #faf8f5;
   --color-surface: #f8f5f2;
   --color-border: #e6e0db;
   --color-accent-soft: #f6eaea;
@@ -79,10 +79,12 @@ img { display: block; max-width: 100%; }
 }
 .profile { position: sticky; top: 48px; text-align: center; }
 .avatar {
-  width: 120px;
+  width: 150px;
   height: auto;
   margin: 0 auto 1rem;
   object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(46, 45, 41, 0.12);
 }
 .profile-position { margin: 0 0 0.1rem; font-size: 18px; line-height: 1.4; }
 .profile-affiliation { margin: 0 0 0.75rem; font-size: 18px; }
@@ -165,7 +167,7 @@ hr { margin: 2rem 0; border: 0; border-top: 1px solid var(--color-border); }
     margin-top: 40px;
   }
   .profile { position: static; }
-  .avatar { width: 108px; }
+  .avatar { width: 130px; }
 }
 @media screen and (max-width: 480px) {
   body { font-size: 17px; line-height: 1.55; }
