@@ -1,6 +1,5 @@
 main:
   - title: "AMUSE: Anytime Muon with Stable Gradient Evaluation"
-    selected: true
     authors: Jueun Kim*, Baekrok Shin*, Jihun Yun, Beomhan Baek, <strong>Minhak Song</strong>, Chulhee Yun
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> 2026 <strong class="publication-highlight">(Spotlight)</strong>
     arxiv: https://arxiv.org/abs/2605.22432
@@ -27,7 +26,6 @@ main:
     paper: https://openreview.net/forum?id=LJdAdCo3BN
 
   - title: "Suspicious Alignment of SGD: A Fine-Grained Step Size Condition Analysis"
-    selected: true
     authors: Shenyang Deng, Boyao Liao, Zhuoli Ouyang, Tianyu Pang, <strong>Minhak Song</strong>, Yaoqing Yang
     conference: International Conference on Algorithmic Learning Theory <strong>(ALT)</strong> 2026 <strong class="publication-highlight">(Best Student Paper)</strong>
     arxiv: https://arxiv.org/abs/2601.11789
