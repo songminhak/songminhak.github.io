@@ -15,7 +15,8 @@ Previously, I completed my undergraduate studies in [Mathematical Sciences](http
 - **[Sep. 2026]** I started my PhD in [Computer Science](https://www.cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/).
 - **[Apr. 2026]** Two papers, [Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669) and [Dichotomy of RLHF and DPO](https://arxiv.org/abs/2505.19770), were accepted to **ICML 2026**.
 - **[Apr. 2026]** I gave a **contributed talk** on [Zeroth-Order Edge of Stability](https://arxiv.org/abs/2604.14669) at the **ICLR 2026** Workshop on [Scientific Methods for Understanding Deep Learning](https://scienceofdlworkshop.github.io/2026/) in Rio, Brazil.
-- **[Feb. 2026]** Our paper on the [Suspicious Alignment of SGD](https://arxiv.org/abs/2601.11789) won the [**Best Student Paper Award**](https://algorithmiclearningtheory.org/alt2026/distinguished-papers/) at **ALT 2026**.
+- **[Feb. 2026]** Our paper, [Suspicious Alignment of SGD](https://arxiv.org/abs/2601.11789), won the [**Best Student Paper Award**](https://algorithmiclearningtheory.org/alt2026/distinguished-papers/) at **ALT 2026**.
+- **[Jan. 2026]** Our paper, [Implicit Bias of Per-Sample Adam on Separable Data](https://arxiv.org/abs/2510.26303), was accepted to **ICLR 2026**.
 
 <a class="earlier-news-link" href="{{ '/news.html' | relative_url }}">View earlier news</a>
 

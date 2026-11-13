@@ -6,7 +6,6 @@ permalink: /news.html
 
 ## News Archive
 
-- **[Jan. 2026]** [Implicit Bias of Per-Sample Adam on Separable Data](https://arxiv.org/abs/2510.26303) was accepted to **ICLR 2026**.
 - **[Dec. 2025]** [Suspicious Alignment of SGD](https://arxiv.org/abs/2601.11789) was accepted to **ALT 2026**.
 - **[Oct. 2025]** I was selected as a [Top Reviewer](https://neurips.cc/Conferences/2025/ProgramCommittee#top-reviewer) (top 8% of reviewers) at **NeurIPS 2025**.
 - **[Sep. 2025]** [Through the River](https://arxiv.org/abs/2507.09846) was accepted to **NeurIPS 2025**.
